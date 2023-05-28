@@ -8,7 +8,7 @@ Technology: Android Studio
 
 Language: English
 
-Demo -
+Demo - link:
 
-Pitch - https://youtu.be/Uy-bg9-Gl8k
+Pitch - link: https://youtu.be/Uy-bg9-Gl8k
 
